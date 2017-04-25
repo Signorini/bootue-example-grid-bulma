@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png" height="50">
+    <img src="dist/logo.png" height="50">
 
     <h2>Bulma's Grid</h2>
     <div class="container">
