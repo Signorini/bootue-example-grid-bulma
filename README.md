@@ -1,4 +1,4 @@
-## Example app using both bulma and bootstrap's grid system
+## App example using Bulma and Bootstrap grid system
 
 > Bootue + Boostrap + Bulma
 
